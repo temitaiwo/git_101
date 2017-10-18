@@ -1,0 +1,20 @@
+	body{
+		background: #eee;	
+	}	
+
+	.blog{
+		color: #f00;
+		font-size: 50px;
+		letter-spacing: 2px;
+		text-align: center;
+	}
+
+	#blog{
+		color: purple;
+		font-weight: 100;
+		font-size: 20px;
+	}
+
+	input{
+		background: red;
+	}
